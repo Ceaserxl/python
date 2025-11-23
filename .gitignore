@@ -1,0 +1,12 @@
+# Ignore everything in this directory
+*
+
+# Allow only these files:
+!cpython-3.13.7linux.tar.xz
+!cpython-3.13.7rpi.tar.gz
+!cpython-3.13.7windows.zip
+!initiate.bat
+!initiate.sh
+
+# Also allow the .gitignore itself:
+!.gitignore
