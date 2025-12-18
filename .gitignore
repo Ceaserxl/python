@@ -7,6 +7,7 @@
 !cpython-3.13.7windows.zip
 !initiate.bat
 !initiate.sh
+!venv.sh
 
 # Also allow the .gitignore itself:
 !.gitignore
